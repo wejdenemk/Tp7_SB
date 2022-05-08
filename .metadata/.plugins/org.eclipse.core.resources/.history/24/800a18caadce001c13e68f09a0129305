@@ -1,0 +1,5 @@
+package com.wej.produits.repos;
+
+public interface UserRepository {
+
+}
